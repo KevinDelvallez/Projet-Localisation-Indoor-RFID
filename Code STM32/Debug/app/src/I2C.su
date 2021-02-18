@@ -1,0 +1,5 @@
+I2C.c:10:6:BSP_I2C2_Init	8	static
+I2C.c:52:6:BSP_I2C1_Init	8	static
+I2C.c:94:9:BSP_I2C1_Read	32	static
+I2C.c:181:9:BSP_I2C1_Write	32	static
+I2C.c:250:9:wait_for_flags	16	static

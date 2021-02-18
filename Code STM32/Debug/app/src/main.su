@@ -1,0 +1,7 @@
+core_cm0.h:629:22:NVIC_EnableIRQ	16	static
+core_cm0.h:688:22:NVIC_SetPriority	24	static
+main.c:39:5:main	8	static
+main.c:137:6:vTask1	16	static
+main.c:150:6:vTask2	232	static
+main.c:191:6:Task_Write	24	static
+main.c:237:13:SystemClock_Config	24	static

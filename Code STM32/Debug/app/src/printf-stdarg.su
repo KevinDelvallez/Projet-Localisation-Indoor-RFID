@@ -1,0 +1,6 @@
+printf-stdarg.c:32:13:printchar	16	static
+printf-stdarg.c:47:12:prints	48	static
+printf-stdarg.c:80:12:printi	64	static
+printf-stdarg.c:123:12:print	64	static
+printf-stdarg.c:187:5:my_printf	16	static
+printf-stdarg.c:195:5:my_sprintf	28	static

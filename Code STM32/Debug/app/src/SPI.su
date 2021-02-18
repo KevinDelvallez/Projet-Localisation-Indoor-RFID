@@ -1,0 +1,2 @@
+SPI.c:11:6:BSP_SPI2_Common_Init	8	static
+SPI.c:53:6:BSP_SPI2_CSPins_Init	8	static

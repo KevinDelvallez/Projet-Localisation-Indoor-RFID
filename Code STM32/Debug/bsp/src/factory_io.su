@@ -1,0 +1,3 @@
+factory_io.c:16:6:FACTORY_IO_Actuators_Set	32	static
+factory_io.c:46:9:FACTORY_IO_Sensors_Get	24	static
+factory_io.c:75:6:FACTORY_IO_update	16	static
